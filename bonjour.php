@@ -3,7 +3,7 @@
   <title>Test PHP</title>
  </head>
  <body>
- <?php echo '<p>Bonjour le monde la famille ca  va ?</p>'; 
+ <?php echo '<p>Bonjour le monde la famille ca  va ou bien?</p>'; 
  
  $a = array(2, 4, 6, 8);
  echo "sum(a) = " . array_sum($a) . "\n";

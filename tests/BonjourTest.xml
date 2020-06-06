@@ -2,8 +2,6 @@
 
 <phpunit colors="true">
 
-    <testsuite name="mes super test">
-
         <directory>.</directory>
 
     </testsuite>

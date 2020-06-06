@@ -4,8 +4,8 @@
 
     <testsuite name="mes super test">
 
-        <directory>./tests</directory>
+        <directory>.</directory>
 
     </testsuite>
-    
+
 </phpunit>

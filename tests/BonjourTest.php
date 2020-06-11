@@ -18,6 +18,6 @@ class BonjourTest extends PHPUnit_Framework_TestCase
         //and we turn the wheel once
         $this->BonjourInstance->turnwheel();
 
-        $this->assertEquals(99, $this->BonjourInstance->getBonjour()):
+        $this->assertEquals(99, $this->bonjourInstance->getBonjour());
     }
 }

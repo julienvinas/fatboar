@@ -1,6 +1,6 @@
 <?php
 
-require 'Bonjour.php';
+require "Bonjour.php";
 
 class BonjourTest extends PHPUnit_Framework_TestCase
 

@@ -4,7 +4,7 @@
 //class GumballMachineTest extends PHPUnit_Framework_TestCase
 
 use PHPunit\framework\TestCase;
-class GumballMachineTest extends TestCase 
+class GumballMachine extends TestCase 
 
 {
     public $gumballMachineInstance;

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<phpunit colors="true">
+<phpunit colors="true"
         convertErrorsToExceptions="true"
         convertNoticesToExceptions="true"
         convertWarningsToExceptions="true"
         processIsolation="false"
-        stopOnfailure="false"
-        syntaxCheck="true"     
-
+        stopOnFailure="false"
+        syntaxCheck="true" >   
     <testsuites>
         <testsuite name="Test suite">
             <directory>.</directory>

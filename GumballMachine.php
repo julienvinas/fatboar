@@ -13,7 +13,7 @@ class GumballMachine{
         $this->gumballs = $amount;
     }
 
-    // the user turns the wheel, machine dispenses gumball!
+    /// the user turns the wheel, machine dispenses gumball!
     public function turnWheel(){
         $this->setGumballs($this->getGumballs() -1);
     }

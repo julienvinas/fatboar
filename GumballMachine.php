@@ -15,7 +15,7 @@ class GumballMachine{
 
     /// the user turns the wheel, machine dispenses gumball!
     public function turnWheel(){
-        $this->setGumballs($this->getGumballs() -1);
+        $this->setGumballs($this->getGumballs() );
     }
 
 }

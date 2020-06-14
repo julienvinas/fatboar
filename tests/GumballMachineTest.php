@@ -4,7 +4,7 @@ require "GumballMachine.php";
 //class GumballMachineTest extends PHPUnit_Framework_TestCase
 
 use PHPunit\framework\TestCase;
-class GumballMachine extends TestCase 
+class GumballMachineTest extends TestCase 
 
 {
     public $gumballMachineInstance;

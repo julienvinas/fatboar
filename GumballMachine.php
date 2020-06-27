@@ -3,7 +3,7 @@
 class GumballMachine{
     private $gumballs;
 
-    //get the amount of gumballsr still in the machine
+    //get the amount of gumballsr still in the machine test
     public function getGumballs(){
         return $this->gumballs;
     }
